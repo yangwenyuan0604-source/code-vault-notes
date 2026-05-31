@@ -1,0 +1,27 @@
+{
+  "id": "conv-1780208185493-6k48vssd6",
+  "providerId": "claude",
+  "title": "Create JavaSE notes using template",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780208185494,
+  "updatedAt": 1780209992492,
+  "lastResponseAt": 1780209992492,
+  "sessionId": "703b43e5-e3d5-417f-b499-6f53d17aeb72",
+  "providerState": {
+    "providerSessionId": "703b43e5-e3d5-417f-b499-6f53d17aeb72",
+    "previousProviderSessionIds": [
+      "f04bea40-7f2e-46eb-b371-a8007ececa3e",
+      "8affb4fb-26f0-4bd1-a9bf-3da3f8b7cfec"
+    ]
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 298,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 52352,
+    "contextWindow": 1000000,
+    "contextTokens": 52650,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}

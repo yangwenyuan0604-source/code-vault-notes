@@ -1,0 +1,12 @@
+# Obsidian workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# System
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Optional: 如果不想同步 Obsidian 配置，取消注释下一行
+# .obsidian/
