@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780315931222-8d7k6sp1l",
+  "providerId": "claude",
+  "title": "Create Java agent development knowledge collection",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780315931222,
+  "updatedAt": 1780316473370,
+  "lastResponseAt": 1780316473370,
+  "sessionId": "bbbe43f2-b248-4231-b259-415c582003c5",
+  "providerState": {
+    "providerSessionId": "bbbe43f2-b248-4231-b259-415c582003c5"
+  },
+  "currentNote": "agent知识点.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}
