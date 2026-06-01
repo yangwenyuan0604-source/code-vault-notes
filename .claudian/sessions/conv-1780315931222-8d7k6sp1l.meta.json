@@ -4,20 +4,20 @@
   "title": "Create Java agent development knowledge collection",
   "titleGenerationStatus": "success",
   "createdAt": 1780315931222,
-  "updatedAt": 1780323945093,
-  "lastResponseAt": 1780323945093,
+  "updatedAt": 1780334077980,
+  "lastResponseAt": 1780333943280,
   "sessionId": "bbbe43f2-b248-4231-b259-415c582003c5",
   "providerState": {
     "providerSessionId": "bbbe43f2-b248-4231-b259-415c582003c5"
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 150,
+    "inputTokens": 137,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 69120,
+    "cacheReadInputTokens": 94336,
     "contextWindow": 1000000,
-    "contextTokens": 69270,
-    "percentage": 7,
+    "contextTokens": 94473,
+    "percentage": 9,
     "contextWindowIsAuthoritative": true
   }
 }
