@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780305023088-ioiqn3s6u",
+  "providerId": "claude",
+  "title": "Debug code block vs AI note color discrepancy",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780305023089,
+  "updatedAt": 1780305060250,
+  "lastResponseAt": 1780305060250,
+  "sessionId": "47cb451f-fa7a-491c-8ee7-35ccd4fa415b",
+  "providerState": {
+    "providerSessionId": "47cb451f-fa7a-491c-8ee7-35ccd4fa415b"
+  },
+  "currentNote": "项目实战.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1818,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 25216,
+    "contextWindow": 1000000,
+    "contextTokens": 27034,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}
