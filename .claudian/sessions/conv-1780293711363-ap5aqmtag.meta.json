@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780293711363-ap5aqmtag",
+  "providerId": "claude",
+  "title": "Add detailed notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780293711364,
+  "updatedAt": 1780293801918,
+  "lastResponseAt": 1780293801918,
+  "sessionId": "6f582b4e-23b6-4cce-8890-004f61eccfbc",
+  "providerState": {
+    "providerSessionId": "6f582b4e-23b6-4cce-8890-004f61eccfbc"
+  },
+  "currentNote": "排序算法详解.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 3938,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 24576,
+    "contextWindow": 1000000,
+    "contextTokens": 28514,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

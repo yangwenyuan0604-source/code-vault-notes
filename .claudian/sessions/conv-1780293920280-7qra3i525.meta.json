@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780293920280-7qra3i525",
+  "providerId": "claude",
+  "title": "Add Caveman statusline config",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780293920280,
+  "updatedAt": 1780294626428,
+  "lastResponseAt": 1780294626428,
+  "sessionId": "d30bd0ab-7346-4723-a9ae-8d9e956d3b26",
+  "providerState": {
+    "providerSessionId": "d30bd0ab-7346-4723-a9ae-8d9e956d3b26"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 152,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 32384,
+    "contextWindow": 1000000,
+    "contextTokens": 32536,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

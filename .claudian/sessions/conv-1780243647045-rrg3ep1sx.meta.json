@@ -1,0 +1,22 @@
+{
+  "id": "conv-1780243647045-rrg3ep1sx",
+  "providerId": "claude",
+  "title": "Generate data structure notes with C and Java",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780243647046,
+  "updatedAt": 1780293913781,
+  "lastResponseAt": 1780293911819,
+  "sessionId": "e2e8ce39-a6a9-4ebc-a15e-49fe103d7c0c",
+  "providerState": {
+    "providerSessionId": "e2e8ce39-a6a9-4ebc-a15e-49fe103d7c0c"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 586,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 95744,
+    "contextWindow": 200000,
+    "contextTokens": 96330,
+    "percentage": 48
+  }
+}
