@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780334144193-0oe8fna29",
+  "providerId": "claude",
+  "title": "Fix messy notes display in GitHub repo",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780334144193,
+  "updatedAt": 1780334817321,
+  "lastResponseAt": 1780334817321,
+  "sessionId": "9e49cb40-1720-4d8c-a890-8c7c827e2471",
+  "providerState": {
+    "providerSessionId": "9e49cb40-1720-4d8c-a890-8c7c827e2471"
+  },
+  "currentNote": "Javase.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 122,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 72704,
+    "contextWindow": 1000000,
+    "contextTokens": 72826,
+    "percentage": 7,
+    "contextWindowIsAuthoritative": true
+  }
+}
