@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780390545882-gwuuavosk",
+  "providerId": "claude",
+  "title": "Explain Java post-OOP with code examples",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780390545882,
+  "updatedAt": 1780390977727,
+  "lastResponseAt": 1780390977727,
+  "sessionId": "f5aeb80d-10f2-4531-ac23-795b0a124186",
+  "providerState": {
+    "providerSessionId": "f5aeb80d-10f2-4531-ac23-795b0a124186"
+  },
+  "currentNote": "Javase.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 6009,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 73472,
+    "contextWindow": 1000000,
+    "contextTokens": 79481,
+    "percentage": 8,
+    "contextWindowIsAuthoritative": true
+  }
+}
