@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780389277010-ypi1ali2w",
+  "providerId": "claude",
+  "title": "Create Java + agent learning roadmap for freshman",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780389277012,
+  "updatedAt": 1780389388113,
+  "lastResponseAt": 1780389388113,
+  "sessionId": "ad7798a3-0298-4fa3-adf9-562bba3481c8",
+  "providerState": {
+    "providerSessionId": "ad7798a3-0298-4fa3-adf9-562bba3481c8"
+  },
+  "currentNote": "Java+agent的学习路线.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 140,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 29440,
+    "contextWindow": 1000000,
+    "contextTokens": 29580,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}
