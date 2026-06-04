@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780543196374-o29i8jjfm",
+  "providerId": "claude",
+  "title": "Write MySQL knowledge notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780543196374,
+  "updatedAt": 1780543529347,
+  "lastResponseAt": 1780543529347,
+  "sessionId": "c6d83bb1-da4c-4f72-860f-f7275ce8a2f4",
+  "providerState": {
+    "providerSessionId": "c6d83bb1-da4c-4f72-860f-f7275ce8a2f4"
+  },
+  "currentNote": "MySQL.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 24,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 45952,
+    "contextWindow": 1000000,
+    "contextTokens": 45976,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}
