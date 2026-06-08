@@ -4,8 +4,8 @@
   "title": "Explain setting subheadings",
   "titleGenerationStatus": "success",
   "createdAt": 1780895695563,
-  "updatedAt": 1780895814384,
-  "lastResponseAt": 1780895814384,
+  "updatedAt": 1780896238805,
+  "lastResponseAt": 1780896146226,
   "sessionId": "7fe22bfe-744a-4eef-8188-d955f326ad14",
   "providerState": {
     "providerSessionId": "7fe22bfe-744a-4eef-8188-d955f326ad14"
@@ -13,11 +13,11 @@
   "currentNote": "数据结构期末速成.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 147,
+    "inputTokens": 49,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 25856,
+    "cacheReadInputTokens": 33920,
     "contextWindow": 1000000,
-    "contextTokens": 26003,
+    "contextTokens": 33969,
     "percentage": 3,
     "contextWindowIsAuthoritative": true
   }
