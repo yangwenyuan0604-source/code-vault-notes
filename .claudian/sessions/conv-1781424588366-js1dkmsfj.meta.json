@@ -1,0 +1,24 @@
+{
+  "id": "conv-1781424588366-js1dkmsfj",
+  "providerId": "claude",
+  "title": "Generate detailed study notes for agent foundation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781424588366,
+  "updatedAt": 1781424746031,
+  "lastResponseAt": 1781424746031,
+  "sessionId": "0cfc9985-336f-4716-a59a-369faa8305fd",
+  "providerState": {
+    "providerSessionId": "0cfc9985-336f-4716-a59a-369faa8305fd"
+  },
+  "currentNote": "python程序设计与数据原理可视化.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 253,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 101504,
+    "contextWindow": 1000000,
+    "contextTokens": 101757,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}

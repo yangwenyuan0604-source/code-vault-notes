@@ -24,7 +24,7 @@
 ![Java](https://img.shields.io/badge/Java-17%2B-orange)
 ![Spring](https://img.shields.io/badge/Spring%20AI-1.1.0-green)
 ![LangChain4j](https://img.shields.io/badge/LangChain4j-1.1.0-blue)
-![Agent](https://img.shields.io/badge/AI%20Agent-%F0%9F%A4%96-purple)
+![Agent|80](https://img.shields.io/badge/AI%20Agent-%F0%9F%A4%96-purple)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%F0%9F%93%9D-7C3AED)
 
 ## 📝 关于笔记格式
