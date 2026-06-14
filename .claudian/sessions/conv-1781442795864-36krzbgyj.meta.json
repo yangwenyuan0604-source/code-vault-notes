@@ -1,0 +1,24 @@
+{
+  "id": "conv-1781442795864-36krzbgyj",
+  "providerId": "claude",
+  "title": "Generate agent learning roadmap for beginner",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781442795864,
+  "updatedAt": 1781443440930,
+  "lastResponseAt": 1781443440930,
+  "sessionId": "6c3d3619-49b5-4315-98e4-8f37aa5f88d2",
+  "providerState": {
+    "providerSessionId": "6c3d3619-49b5-4315-98e4-8f37aa5f88d2"
+  },
+  "currentNote": "从零开始学习agent的学习路线.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}
